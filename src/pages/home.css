@@ -1,0 +1,29 @@
+/* 
+344e41
+3a5a40
+588157
+a3b18a
+dad7cd
+*/
+
+
+
+img{
+    float: right;
+    max-height: 50%;
+    max-width: 50%;
+}
+
+.card{
+    padding-top: 70px;
+    padding-left: 30px;
+    border: none !important;
+}
+
+.card-title{
+    color: #3a5a40 !important;
+}
+
+.card-text{
+    color: #000000 !important;
+}
